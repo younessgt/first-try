@@ -1,3 +1,6 @@
-Welcome to my GitHub profile!
-Hello my name is Youness Merzak
-I have a master degree on fluid mecanics and im interested to learn about software engenier.
+Welcome to my GitHub profile! :simple_smile:
+
+Hello my name is Youness Merzak :computer:
+
+
+I have a master degree on fluid mecanics :mortar_board:  and im interested to learn about software engenier.
